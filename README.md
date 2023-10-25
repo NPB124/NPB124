@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NPB124
-- I'm interested in both feont end and bavk end development
+- I'm interested in both front end and back end development
 - 👀 I’m interested in C++ programming
 - 🌱 I’m currently learning to extend my knowledge of development and C++ 
 - 💞️ I’m looking to collaborate on any projects that require web development or/and C++ knowledge
